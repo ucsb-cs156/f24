@@ -110,7 +110,9 @@ Your grade will be made up of activities from the following categories:
     * The extent to which you and your team keep your Kanban board up-to-date
     * Your team's presentations to the course.
 
-  <div id="catme-explanation" />
+  <div id="catme-explanation">
+  </div>
+
   In addition, we'll be using peer evaluations through a tool called CATME to assess your individual contributions to the project's success.
   The peer evaluation may apply a multiplier to your project grade, increasing it or decreasing it, per your team's assessment
   of your contributions.   It is important to be sure that you are meeting your committments to your team for a variety of reasons; your
